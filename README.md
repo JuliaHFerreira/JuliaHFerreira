@@ -6,7 +6,7 @@
 - 📕 Course: Java COMPLETO Programação Orientada a Objetos + Projetos - Ûdemy
 - 👀 I'm looking to learn Node js, .net, HTML, Javascript and python
 - 📫 How to reach me pelo LinkedIn https://www.linkedin.com/in/júlia-h-ferreira/
-- 😄 Pronouns: she/her
+- 👩 Pronouns: she/her
 - ⚡ Fun fact: I have tongue tied, sometimes a completely meaningless word comes out when I speak hahaha
 
 <!---
