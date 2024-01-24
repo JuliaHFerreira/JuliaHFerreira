@@ -4,6 +4,6 @@
 - 👩‍💻 Programming Language: C
 - 🌱 I’m currently learning: Java
 - 📕 Course: Java COMPLETO Programação Orientada a Objetos + Projetos - Ûdemy
-- 👀 I'm looking to learn C#, python, Javascript, Node js,.net and HTML
+- 👀 I'm looking to learn C#, python, Javascript, Node js, .net and HTML
 - 📫 How to reach me pelo LinkedIn https://www.linkedin.com/in/júlia-h-ferreira/
 - 👩 Pronouns: she/her
