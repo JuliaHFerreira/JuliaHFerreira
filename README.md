@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Júlia Helena Ferreira
 - 🌟 I'm 22 years old
-- 📚 I study Systems Development Analysis at Unicesumar College 1/4
+- 📚 I study Systems Development Analysis at Unicesumar College 2/5
 - 👩‍💻 Programming Language: C
 - 🌱 I’m currently learning: Java
 - 📕 Course: Java COMPLETO Programação Orientada a Objetos + Projetos - Ûdemy
