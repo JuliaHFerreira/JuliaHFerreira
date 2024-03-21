@@ -1,4 +1,4 @@
-# Olá! Sou a júlia 👋
+# Olá! Sou a Júlia 👋
 Programadora Back-end em formação
 
 ## 🎓 Sobre mim
