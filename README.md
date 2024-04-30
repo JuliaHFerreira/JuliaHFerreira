@@ -1,12 +1,15 @@
+<img align="right" height="400" src="https://i.ibb.co/jTkPvYd/Eu.png">
+
 # Olá! Sou a Júlia 👋
 Programadora Back-end em formação
 
-## 🎓 Sobre mim
+<h3 align="left">🎓 Sobre mim </h3>
 
-Eu sempre fui apaixonada pela área de tecnologia desde criança, toda vez que eu aprendo algo relacionado a área me da um entusiasmo. Eu estou migrando para minha área de formação, por isso estou buscando sempre conhecimento para me evoluir mais.
+Eu sempre fui apaixonada pela área de tecnologia desde criança, toda vez que eu aprendo algo relacionado a área recebo uma dose de serotonina no meu corpo. Eu estou migrando para minha área de formação, por isso estou buscando sempre conhecimento para me evoluir mais.
 
 - 📚 Cursando análise em desenvolvimento de sistemas pela Unicesumar
 - 📚 Estou fazendo um curso de Java COMPLETO Programação Orientada a Objetos + Projetos - Na plataforma Ûdemy mestrado por Nélio Alves
+- 📚 Estou participando Santander Bootcamp 2024 - Backend com Java
 - 🌟 Tenho 22 anos
 
 <div align="center">
