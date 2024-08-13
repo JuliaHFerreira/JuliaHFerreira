@@ -30,6 +30,10 @@ Eu sempre fui apaixonada pela área de tecnologia desde criança, toda vez que e
 <div style="display: inline_block" align="center"><br>
 <img align="center" height="50" width="60" title="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="center" height="50" width="60" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" height="50" width="50" title="Delphi" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png">
+<img align="center" height="50" width="50" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+<img align="center" height="50" width="50" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+<img align="center" height="50" width="50" title="SQLServer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 <img align="center" height="50" width="60" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="center" height="50" width="60" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="center" height="50" width="60" title="UML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
