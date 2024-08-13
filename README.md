@@ -9,7 +9,7 @@ Eu sempre fui apaixonada pela área de tecnologia desde criança, toda vez que e
 
 - 📚 Cursando análise em desenvolvimento de sistemas pela Unicesumar
 - 📚 Estou fazendo um curso de Java COMPLETO Programação Orientada a Objetos + Projetos - Na plataforma Ûdemy mestrado por Nélio Alves
-- 📚 Estou participando Santander Bootcamp 2024 - Backend com Java
+- 📚 Conclui o curso Santander Bootcamp 2024 - Backend com Java
 - 🌟 Tenho 22 anos
 
 <div align="center">
