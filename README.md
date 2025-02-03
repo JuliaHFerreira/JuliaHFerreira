@@ -5,11 +5,11 @@ Programadora Back-end em formação
 
 <h3 align="left">🎓 Sobre mim </h3>
 
-Eu sempre fui apaixonada pela área de tecnologia desde criança, toda vez que eu aprendo algo relacionado a área recebo uma dose de serotonina no meu corpo. Eu estou migrando para minha área de formação, por isso estou buscando sempre conhecimento para me evoluir mais.
+Desde criança, sempre fui apaixonada por tecnologia, e agora estou dando passos concretos para transformar essa paixão na minha carreira. Curso Análise e Desenvolvimento de Sistemas e, atualmente, trabalho como auxiliar de e-commerce, onde tenho adquirido experiência prática com SQL (consultas, atualização e criação de tabelas), suporte de TI e desenvolvimento de sistemas.
+
+Nos últimos meses, venho me dedicando ainda mais ao aprendizado, aprimorando minhas habilidades com ferramentas de desenvolvimento e colocando-as em prática tanto em projetos pessoais quanto no meu trabalho. Estou animada para dar o próximo passo e migrar definitivamente para a área de tecnologia, onde posso crescer, contribuir e aprender cada vez mais!
 
 - 📚 Cursando análise em desenvolvimento de sistemas pela Unicesumar
-- 📚 Estou fazendo um curso de Java COMPLETO Programação Orientada a Objetos + Projetos - Na plataforma Ûdemy mestrado por Nélio Alves
-- 📚 Conclui o curso Santander Bootcamp 2024 - Backend com Java
 - 🌟 Tenho 22 anos
 
 <div align="center">
