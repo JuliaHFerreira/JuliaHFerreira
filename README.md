@@ -20,7 +20,7 @@ Nos últimos meses, venho me dedicando ainda mais ao aprendizado, aprimorando mi
 
 ## 
 <div align="center"> 
-  <a href ="https://www.linkedin.com/in/j%C3%BAlia-h-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href ="https://www.linkedin.com/in/juliahferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href ="mailto:juliahelena317@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://wa.me/+5519997913604" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div> 
