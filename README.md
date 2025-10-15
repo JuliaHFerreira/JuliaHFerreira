@@ -5,12 +5,15 @@ Programadora Back-end em formação
 
 <h3 align="left">🎓 Sobre mim </h3>
 
-Desde criança, sempre fui apaixonada por tecnologia, e agora estou dando passos concretos para transformar essa paixão na minha carreira. Curso Análise e Desenvolvimento de Sistemas e, atualmente, trabalho como auxiliar de e-commerce, onde tenho adquirido experiência prática com SQL (consultas, atualização e criação de tabelas), suporte de TI e desenvolvimento de sistemas.
+💻 Desde criança, sempre fui apaixonada por tecnologia e hoje transformo essa paixão em carreira.
 
-Nos últimos meses, venho me dedicando ainda mais ao aprendizado, aprimorando minhas habilidades com ferramentas de desenvolvimento e colocando-as em prática tanto em projetos pessoais quanto no meu trabalho. Estou animada para dar o próximo passo e migrar definitivamente para a área de tecnologia, onde posso crescer, contribuir e aprender cada vez mais!
+Cursando Análise e Desenvolvimento de Sistemas na Unicesumar, atuo como Assistente de TI II na Sportive Indústria e Comércio de Plásticos, onde desenvolvo rotinas em ADVPL no TOTVS Protheus, automatizo relatórios em SQL e modelo bancos de dados para novas funcionalidades.
 
-- 📚 Cursando análise em desenvolvimento de sistemas pela Unicesumar
-- 🌟 Tenho 22 anos
+Nos últimos meses, venho aprofundando meus estudos em Java e Spring Boot, com foco em APIs REST, microsserviços e testes unitários (JUnit). Tenho também experiência com Docker, PostgreSQL, Git/GitHub e metodologias ágeis (Scrum e Kanban).
+
+🚀 Meu objetivo é evoluir cada vez mais como desenvolvedora backend, aplicando boas práticas, aprendendo novas tecnologias e contribuindo com projetos que gerem impacto real.
+
+- 🌟 Tenho 23 anos
 
 <div align="center">
   <a href="https://github.com/JuliaHFerreira">
