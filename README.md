@@ -1,15 +1,11 @@
-<img align="right" height="400" src="https://i.ibb.co/jTkPvYd/Eu.png">
-
 # Olá! Sou a Júlia 👋
-Programadora Back-end em formação
+Programadora Back-end
 
 <h3 align="left">🎓 Sobre mim </h3>
 
 💻 Desde criança, sempre fui apaixonada por tecnologia e hoje transformo essa paixão em carreira.
 
-Cursando Análise e Desenvolvimento de Sistemas na Unicesumar, atuo como Assistente de TI II na Sportive Indústria e Comércio de Plásticos, onde desenvolvo rotinas em ADVPL no TOTVS Protheus, automatizo relatórios em SQL e modelo bancos de dados para novas funcionalidades.
-
-Nos últimos meses, venho aprofundando meus estudos em Java e Spring Boot, com foco em APIs REST, microsserviços e testes unitários (JUnit). Tenho também experiência com Docker, PostgreSQL, Git/GitHub e metodologias ágeis (Scrum e Kanban).
+Cursando Análise e Desenvolvimento de Sistemas na Unicesumar, atuo como Assistente de TI II na Sportive Indústria e Comércio de Plásticos, onde desenvolvo rotinas em ADVPL no TOTVS Protheus, contruo selects em Oracle e Firebird para automatizar consulta de dados dos funcionarios em planilhas e modelo bancos de dados para novas funcionalidades.
 
 🚀 Meu objetivo é evoluir cada vez mais como desenvolvedora backend, aplicando boas práticas, aprendendo novas tecnologias e contribuindo com projetos que gerem impacto real.
 
