@@ -3,19 +3,16 @@ Programadora Back-end
 
 <h3 align="left">🎓 Sobre mim </h3>
 
-💻 Desde criança, sempre fui apaixonada por tecnologia e hoje transformo essa paixão em carreira.
-
 Cursando Análise e Desenvolvimento de Sistemas na Unicesumar, atuo como Assistente de TI II na Sportive Indústria e Comércio de Plásticos, onde desenvolvo rotinas em ADVPL no TOTVS Protheus, contruo selects em Oracle e Firebird para automatizar consulta de dados dos funcionarios em planilhas e modelo bancos de dados para novas funcionalidades.
 
 🚀 Meu objetivo é evoluir cada vez mais como desenvolvedora backend, aplicando boas práticas, aprendendo novas tecnologias e contribuindo com projetos que gerem impacto real.
 
 - 🌟 Tenho 23 anos
 
-<div align="center">
-  <a href="https://github.com/JuliaHFerreira">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JuliaHFerreira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaHFerreira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+<div style="display: inline_block" align="center"><br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JuliaHFerreira&theme=midnight-purple&hide_border=falso&border_radius=4.6&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</div>    
 
 ## 
 <div align="center"> 
@@ -47,13 +44,6 @@ Cursando Análise e Desenvolvimento de Sistemas na Unicesumar, atuo como Assiste
 <img align="center" height="50" width="60" title="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 <img align="center" height="50" width="60" title="Eclipse" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 <img align="center" height="50" width="60" title="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
-
-          
-</div>
-
-#
-<div style="display: inline_block" align="center"><br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JuliaHFerreira&theme=midnight-purple&hide_border=falso&border_radius=4.6&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-</div>      
+  
           
           
